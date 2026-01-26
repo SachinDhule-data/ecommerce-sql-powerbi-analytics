@@ -1,7 +1,7 @@
 /* =========================================================
    PROJECT: E-COMMERCE ANALYTICS
    AUTHOR: SACHIN GANESH DHULE 
-   DESCRIPTION: Table creation script for SQL + Power BI
+   DESCRIPTION: Table creation in SQL 
    ========================================================= */
 
 /* -----------------------------
@@ -71,3 +71,4 @@ CREATE TABLE payments (
         FOREIGN KEY (order_id)
         REFERENCES orders(order_id)
 );
+
