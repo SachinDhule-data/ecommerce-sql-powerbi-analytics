@@ -1,4 +1,4 @@
-# E-commerce Analytics | SQL Focused
+# E-commerce Analytics | SQL |
 
 ## 📌 Business Problem
 Analyze e-commerce data to understand sales performance, customer behavior, and revenue leakage using SQL.
