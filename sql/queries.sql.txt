@@ -1,5 +1,5 @@
 /* =========================================================
-   FILE: queries.sql
+   queries.sql
    PROJECT: E-Commerce SQL Analytics
    
    ========================================================= */
@@ -201,4 +201,5 @@ FROM (
     WHERE p.payment_status = 'Completed'
     GROUP BY month
 ) t;
+
 
